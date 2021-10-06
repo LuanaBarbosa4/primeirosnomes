@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100;900&display=swap');
+
+*{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'Gluten', cursive;
+  font-weight: 100 900;
+}
+
+h1{
+  color: white;
+  font-size: 9vw;
+  text-align: center;
+  margin-top: 2vh;
+}
+
+h2{
+  color: white;
+  font-size: 15vw;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 30vh;
+}
+
+p{
+  color: white;
+  font-size: 5vw;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 2vh;
+}
